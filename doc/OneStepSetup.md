@@ -20,6 +20,7 @@ A sample conf file is located in the `boot` folder on the SD card.
 
     The file should contain the entries below at a minimum, but **replace with your own values**:
     ```
+    export ARCHIVE_SYSTEM=cifs
     export archiveserver=Nautilus
     export sharename=SailfishCam
     export shareuser=sailfish
